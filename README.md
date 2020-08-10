@@ -7,7 +7,7 @@ I'm currently a Physics and Computer Science student at The University of Centra
 ### Connect with me
 <p align="left">
   <a href="https://www.vijaystroup.com"><img align="left" alt="Website" width="30px" src="https://imgur.com/3nwhLhD.png" /></a>
-  <a href="https://www.linkedin.com/vijaystroup"><img align="left" alt="LinkedIn" width="30px" src="https://imgur.com/77GRHNa.png" /></a>
+  <a href="https://www.linkedin.com/in/vijaystroup"><img align="left" alt="LinkedIn" width="30px" src="https://imgur.com/77GRHNa.png" /></a>
 </p>
 
 <br><br>
