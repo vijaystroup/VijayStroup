@@ -7,9 +7,10 @@ I'm currently a Physics and Computer Science student at The University of Centra
 <br>
 
 ### Connect with me
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://i.imgur.com/jqDUwS2.png" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.imgur.com/MstZXyJ.png" />][linkedin]
-
+<p align="left">
+  <a href="vijaystroup.com"><img align="left" alt="Website" width="30px" src="https://imgur.com/3nwhLhD.png" /></a>
+  <a href="linkedin.com/vijaystroup"><img align="left" alt="LinkedIn" width="30px" src="https://imgur.com/77GRHNa.png" /></a>
+</p>
 
 <br>
 
