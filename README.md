@@ -18,6 +18,7 @@ I'm currently a Physics and Computer Science student at The University of Centra
   <img align="left" alt="C++" width="30px" src="https://i.imgur.com/6wtuMWh.png" />
   <img align="left" alt="Javascript" width="30px" src="https://i.imgur.com/2waIkJR.png" />
   <img align="left" alt="C" width="30px" src="https://i.imgur.com/DISotB6.png" />
+  <img align="left" alt="Go" width="30px" src="https://i.imgur.com/diqwKjJ.png" />
   <img align="left" alt="SQL" width="30px" src="https://imgur.com/pPzFmGA.png" />
   <img align="left" alt="HTML5" width="30px" src="https://i.imgur.com/7v06VYW.png" />
   <img align="left" alt="CSS3" width="30px" src="https://i.imgur.com/cAtAGAt.png" />
