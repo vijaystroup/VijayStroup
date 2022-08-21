@@ -2,7 +2,7 @@
 
 I'm currently a Physics and Computer Science student at The University of Central Florida.
 <br>
-<a href="https://vijaystroup.com/static/resume.pdf">View My Resume</a>
+<a href="https://vijaystroup.com/resume">View My Resume</a>
 
 ### Connect with me
 <p align="left">
